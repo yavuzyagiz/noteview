@@ -4,7 +4,7 @@ A simple note-taking view built with SwiftUI.
 ## GIF
 | 1 |
 |---------|
-| <img src="https://github.com/yavuzyagiz/noteview/blob/main/noteview/noteview.gif"> |
+| <img src="https://github.com/yavuzyagiz/noteview/blob/main/noteview/noteview2.gif"> |
 
 ## Screenshot
 | 2 | 3 | 4 |
