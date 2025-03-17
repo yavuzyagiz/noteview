@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct YNoteView: View {
-    @State private var showSheet = false
     @State private var viewModel: DrawingViewModel = DrawingViewModel()
     var menuBackgroundColor: Color = .black
     
